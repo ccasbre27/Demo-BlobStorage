@@ -243,3 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Ejemplo-BlobStorage/Properties/PublishProfiles
